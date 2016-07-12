@@ -1,0 +1,27 @@
+@charset "utf-8";
+/*
+Colors: 005B9A	0191C8	74C2E1	8C8984 from http://www.colorcombos.com/color-schemes/121/ColorCombo121.html
+*/
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+
+.navbar, .navbar-default {
+	padding-top:20px;	
+	padding-bottom:20px;
+	background-color:white;
+}
+
+.navbar-brand {
+	font-size:22px;
+}
+
+.required {
+	color:#FF0000;
+}
